@@ -1,0 +1,8 @@
+.main-title {
+  color: var(--main-blue-color);
+  text-align: center;
+}
+
+.code-text {
+  color: var(--main-pink-color)
+}
